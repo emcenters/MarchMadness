@@ -1,0 +1,30 @@
+
+```{r}
+library(Stat2Data)
+
+mm.df <- read.csv("MarchMadness.csv")
+```
+
+```{r}
+mm.glm <- glm(Win ~ PTS + FTR + OR + DR + FGA + FTA + TO + TOR, family = binomial, data = mm.df)
+summary(mm.glm)
+```
+We can determine that the amount of field goal attempts is not a good predictor for whether the 
+team wins or not because its p-value is 0.954199 > 0.05.
+
+```{r}
+mm.glm2 <- glm(Win ~ PTS + FTR + OR + DR + FTA + TO + TOR, family = binomial, data = mm.df)
+summary(mm.glm2)
+```
+We can determine that the amount of free throw rate is not a good predictor for whether the 
+team wins or not because its p-value is 0.0.215868 > 0.05.
+
+```{r}
+mm.glm3 <- glm(Win ~ PTS + OR + DR + FTA + TO + TOR, family = binomial, data = mm.df)
+summary(mm.glm3)
+```
+The offensive and defensive rebound, free throw attempts, total turnovers, and turnover rate
+are good predictors of whether a team will win because their p-values are less than 0.05.
+
+Prediction Equation:
+Win = (0.09994)Points + (0.18493)Offensive Rebound + (0.24748)Defensive Rebound + (0.06575)Free Throw Attempts - (0.96550)Total Turnovers + (0.81709)Turnover Rate
