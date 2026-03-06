@@ -1,0 +1,914 @@
+Team,Opponent,Win,PTS,FTR,OR,DR,FGA,FTA,TO,TOR
+Army Black Knight,SUNY-Maritime,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,St. Thomas-Minnesota,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Duke,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Harvard,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Cornell,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Marist,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,East Texas A&M,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Fairleigh Dickinson,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Manhattan,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,George Washington,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Gallaudet,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,UMBC,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Binghamton,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Lehigh,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Colgate,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Loyola Maryland,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Boston University,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Holy Cross,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,American University,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Bucknell,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Navy,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Lehigh,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Holy Cross,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Colgate,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Lafayette,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Boston University,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,American University,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Loyola Maryland,1,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Navy,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Bucknell,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Army Black Knight,Lafayette,0,72.7,71.4,11.6,23.8,61.0,15.8,11.90,14.9
+Boise State Broncos,Hawai'I Pacific,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Utah Valley,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,UT Rio Grande Valley,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Montana State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Wichita State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,USC,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,NC State,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Chaminade,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Butler,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Duquesne,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Saint Mary's,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Nevada,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,New Mexico,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,San Diego State,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Grand Canyon,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Utah State,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,UNLV,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Colorado State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Wyoming,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Air Force,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,San José State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Grand Canyon,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Nevada,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,New Mexico,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,UNLV,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Utah State,0,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,San José State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Wyoming,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Boise State Broncos,Fresno State,1,78.1,78.3,10.5,25.3,57.2,23.0,11.50,14.6
+Bryant Bulldogs,Siena,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Georgia Tech,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Dartmouth,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Valparaiso,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Virginia Tech,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Uconn,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Mercy,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Harvard,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Stonehill,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Brown,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Iona,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Marist,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,High Point,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Worcester State,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Maine,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UMass Lowell,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UAlbany,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UMBC,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,NJIT,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Vermont,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Binghamton,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,New Hampshire,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UAlbany,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Maine,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UMass Lowell,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Vermont,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,Binghamton,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,UMBC,0,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+Bryant Bulldogs,NJIT,1,64.5,74.6,10.2,23.3,55.1,16.4,13.20,17.5
+California Golden Bears,Cal State Bakersfield,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Wright State,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Cal State Fullerton,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Kansas State,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Presbyterian,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Sacramento State,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,UCLA,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Utah,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Pacific,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Dominican,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Northwestern State,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Morgan State,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Columbia,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Louisville,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Notre Dame,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Virginia,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Virginia Tech,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Duke,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,North Carolina,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Stanford,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Florida State,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Miami,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Georgia Tech,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Clemson,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Syracuse,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Boston College,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Stanford,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,SMU,1,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+California Golden Bears,Pittsburgh,0,77.7,78.4,9.1,25.6,58.2,21.7,10.40,13.3
+Chattanooga Mocs,Union,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Saint Mary's,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,UNLV,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Florida Gulf Coast,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,South Carolina State,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,North Alabama,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Tennessee Wesleyan,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Tennessee State,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Southeast Missouri State,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Oakwook,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Auburn,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Bellarmine,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Alabama A&M,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,UNC Greensboro,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,VMI,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Furman,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Samford,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Wofford,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Western Carolina,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,East Tennessee State,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Samford,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Wofford,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Furman,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Mercer,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,The Citadel,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,East Tennessee State,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Western Carolina,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,Mercer,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,The Citadel,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,UNC Greensboro,0,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+Chattanooga Mocs,VMI,1,76.4,76.6,7.8,25.4,58.3,16.4,9.70,12.9
+DePaul Blue Demons,Chicago State,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Stonehill,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Buffalo,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Northwestern,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Gardner-Webb,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Detroit Mercy,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Georgia Tech,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,LSU,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Arkansas-Pine Bluff,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Morgan State,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Wichita State,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,St. John's,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,UConn,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Villanova,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Xavier,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Georgetown,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,UConn,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Marquette,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Butler,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Seton Hall,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Georgetown,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Xavier,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,St. John's,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Providence,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Creighton,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Seton Hall,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Providence,0,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Creighton,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+DePaul Blue Demons,Marquette,1,71.2,69.4,10.3,23.1,56.3,20.4,12.00,15.5
+Georgia Southern Eagles,East Carolina,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,UNC Asheville,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Florida Gulf Coast,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Johnson C Smith,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Georgia Tech,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Florida State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Youngstown State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,UTSA,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Houston Christian,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Louisiana Tech,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Gardner-Webb,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Coastal Georgia,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,West Georgia,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Georgia State,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,James Madison,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Coastal Carolina,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Old Dominion,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,South Alabama,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Old Dominion,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Coastal Carolina,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Arkansas State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Troy,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,UL Monroe,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Louisiana,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Texas State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,App State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Marshall,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Georgia State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,App State,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,James Madison,0,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Georgia Southern Eagles,Marshall,1,80.4,73.1,11.0,23.7,61.8,24.1,10.40,12.6
+Green Bay Phoenix,Kansas,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Buffalo,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Ripon,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,St. Thomas-Minnesota,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Minnesota,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Yale,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Massachusetts,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Iona,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Haskell,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Robert Morris,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Wright State,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,IU Indianapolis,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,UC Santa Barbara,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Campbell,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Purdue Fort Wayne,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Milwaukee,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,IU Indianapolis,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Northern Kentucky,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Cleveland State,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Oakland,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Youngstown State,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Robert Morris,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Cleveland State,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Wright State,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Northern Kentucky,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Detroit Mercy,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Purdue Fort Wayne,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Milwaukee,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Oakland,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Detroit Mercy,0,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Youngstown State,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Green Bay Phoenix,Purdue Fort Wayne,1,75.1,76.1,7.7,23.8,52.7,22.0,10.60,14.5
+Idaho State Bengals,Park University Gilbert,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,San Diego,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,San Diego State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Seattle U,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Santa Clara,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Justice College,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Sam Houston,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Cal State Northridge,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Kansas City,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Denver,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Utah Valley,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Montana-Western,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,UC Davis,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Sacramento State,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Portland State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Northern Colorado,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Northern Arizona,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Idaho,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Eastern Washington,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Montana State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Montana,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Weber State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Portland State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Northern Arizona,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Northern Colorado,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Eastern Washington,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Idaho,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Montana,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Montana State,1,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Weber State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Idaho State Bengals,Sacramento State,0,74.5,75.0,10.8,22.0,56.2,21.1,11.10,14.5
+Jackson State Tigers,Illinois,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Louisville,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Louisiana Tech,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Auburn,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Arkansas,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Winthrop,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Louisiana,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Kennesaw State,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Houston,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Northwestern,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Hampton,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Norfolk State,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,TCU,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Alcorn State,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Alabama State,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Alabama A&M,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Prairie View A&M,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Texas Southern,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Bethune-Cookman,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Florida A&M,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Grambling,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Southern,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Mississippi Valley State,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Arkansas-Pine Bluff,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Florida A&M,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Bethune-Cookman,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Alcorn State,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Prairie View A&M,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Texas Southern,0,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Jackson State Tigers,Arkansas-Pine Bluff,1,69.8,76.3,10.8,22.9,59.0,20.5,14.10,17.2
+Kansas City Roos,Southern Illinois,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Evangel,1,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Iona,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Texas,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,TCU,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Lindenwood,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Weber State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Idaho State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Eastern Washington,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Weber State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Spurgeon College,1,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Oklahoma,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Oklahoma State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,McPherson,1,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Denver,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Omaha,1,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,North Dakota State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,North Dakota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,South Dakota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,South Dakota State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Omaha,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Denver,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,St. Thomas-Minnesota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,South Dakota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Oral Roberts,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,St. Thomas-Minnesota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,North Dakota,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,North Dakota State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,South Dakota State,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas City Roos,Oral Roberts,0,69.6,68.0,10.5,22.9,60.5,18.6,13.3,16.2
+Kansas State Wildcats,UNC Greensboro,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Bellarmine,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,California,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Tulsa,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Mississippi State *,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Nebraska *,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,25 Indiana,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Bowling Green,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Seton Hall,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Mississippi Valley State,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Creighton,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,South Dakota,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,UL Monroe,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,BYU,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Arizona,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Arizona State,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,UCF,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Oklahoma State,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Utah,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Kansas,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,West Virginia,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Iowa State,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,TCU,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Cincinnati,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Houston,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Baylor,1,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Texas Tech,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,Colorado,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Kansas State Wildcats,TCU,0,79.5,70.4,10.6,23.8,63.7,16.4,12.9,15.4
+Lafayette Leopards,Saint Joseph's,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Dickinson (PA),1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Texas,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Cornell,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,West Virginia,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Stonehill,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Le Moyne,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Ball State,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Monmouth,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Mercyhurst,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Pennsylvania,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Charlotte,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Georgia Tech,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Colgate,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Loyola Maryland,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Boston University,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Navy,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Bucknell,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Holy Cross,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Boston University,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Lehigh,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Bucknell,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,American University,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Navy,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Army,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Loyola Maryland,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Lehigh,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Holy Cross,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,American University,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Colgate,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Army,1,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lafayette Leopards,Holy Cross,0,69.2,68.6,9.5,23.8,57.6,18.7,10.5,13.8
+Lipscomb Bisons,Vanderbilt,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Mercer,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,UNC Asheville,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Bryan (TN),1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Belmont,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Western Carolina,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Marshall,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Southeast Missouri State,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Tennessee Tech,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Alabama A&M,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Duke,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Blue Mountain,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Cincinnati,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Jacksonville,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,North Florida,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Stetson,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Florida Gulf Coast,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Bellarmine,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Austin Peay,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Stetson,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Florida Gulf Coast,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Jacksonville,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,North Florida,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Austin Peay,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Central Arkansas,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Eastern Kentucky,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Queens University,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Bellarmine,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,North Alabama,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,West Georgia,0,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Lipscomb Bisons,Eastern Kentucky,1,80.5,75.8,9.6,25.4,62.0,16.0,11.3,14.1
+Longwood Lancers,Mary Baldwin,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Pittsburgh,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,James Madison,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Binghamton,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Maryland Eastern Shore,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Columbia,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Siena,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Maine,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,American University,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Pfeiffer,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Morgan State,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Delaware State,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Wake Forest,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,North Carolina Central,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Averett,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Winthrop,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,High Point,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,UNC Asheville,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Presbyterian,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Radford,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Gardner-Webb,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Charleston Southern,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,South Carolina Upstate,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,High Point,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Gardner-Webb,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Winthrop,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,UNC Asheville,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,South Carolina Upstate,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Presbyterian,0,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Charleston Southern,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Longwood Lancers,Radford,1,77.5,74.3,12.0,24.9,58.3,23.5,14,16.9
+Louisiana Tech Bulldogs,Nevada,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Lyon,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Jackson State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Indiana State,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Indiana State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Alcorn State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Georgia Southern,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Ecclesia,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Louisiana,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Tulane,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Dallas Christian,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,UTEP,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Middle Tennessee,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Western Kentucky,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Liberty,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Delaware,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Middle Tennessee,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Jacksonville State,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Kennesaw State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,UTEP,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Sam Houston,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,New Mexico State,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Sam Houston,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Missouri State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Florida International,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Jacksonville State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Kennesaw State,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Missouri State,1,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Louisiana Tech Bulldogs,Florida International,0,69.3,65.3,13.2,25.6,57.7,20.0,12.9,16.2
+Maine Black Bears,George Washington,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Stony Brook,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Rutgers,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Quinnipiac,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Merrimack,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Brown,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,American University,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Longwood,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Siena,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Ohio,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Miami (OH),0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Boston University,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Canisius,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Drexel,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Maine-Fort Kent,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Bryant,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UMBC,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,NJIT,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Vermont,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,New Hampshire,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UAlbany,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Binghamton,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UMass Lowell,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Vermont,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Bryant,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UMBC,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,NJIT,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,New Hampshire,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UAlbany,1,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,Binghamton,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Maine Black Bears,UMass Lowell,0,62.9,64.7,6.3,21.5,50.2,18.6,12.4,17.5
+Mississippi Valley State Delta Devils,UAB,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Mississippi University For Women,1,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Murray State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Hawai'i,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Utah Tech,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Manhattan,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Cal State Bakersfield,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Texas A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,UL Monroe,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Kansas State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Tarleton State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Florida State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,West Virginia,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Oklahoma,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alabama State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alabama A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Prairie View A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Texas Southern,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Bethune-Cookman,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Florida A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Southern,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Arkansas-Pine Bluff,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Jackson State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alcorn State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alabama A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alabama State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Prairie View A&M,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Texas Southern,1,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Grambling,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Arkansas-Pine Bluff,1,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Mississippi Valley State Delta Devils,Alcorn State,0,64.2,70.9,9.2,21.4,56.4,18.3,15.3,19.2
+Morgan State Bears,Georgetown,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Central Penn,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,UMBC,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Mercyhurst,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,North Carolina A&T,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Old Dominion,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Drexel,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Longwood,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,DePaul,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Niagara,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,California,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,San Francisco,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Loyola Marymount,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Penn State (Brandywine),1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Maryland Eastern Shore,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,South Carolina State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,North Carolina Central,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Delaware State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Virginia-Lynchburg,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Howard,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Norfolk State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Coppin State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Maryland Eastern Shore,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,North Carolina Central,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Delaware State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,South Carolina State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Howard,0,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Morgan State Bears,Norfolk State,1,75.6,74.1,11.4,23.4,58.7,24.7,12.8,15.5
+Northwestern State Demons,Texas A&M,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,North Texas,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,North Alabama,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Ecclesia,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,San Francisco,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Grand Canyon,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Southern,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,McNeese,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,SE Louisiana,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,California,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Southern-New Orleans,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Lamar,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Stephen F. Austin,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,New Orleans,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Nicholls,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Texas A&M-Corpus Christi,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,UT Rio Grande Valley,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Incarnate Word,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Houston Christian,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Stephen F. Austin,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,New Orleans,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Nicholls,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,East Texas A&M,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,East Texas A&M,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,East Texas A&M,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Lamar,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,SE Louisiana,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,McNeese,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Houston Christian,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Incarnate Word,1,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,Texas A&M-Corpus Christi,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Northwestern State Demons,UT Rio Grande Valley,0,69.0,74.3,8.7,22.6,53.2,21.5,11.6,15.6
+Oakland Golden Grizzlies,Michigan,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Purdue,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Houston,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Defiance,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,UCF,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Eastern Michigan,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Lamar,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Montana,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Purdue Fort Wayne,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Toledo,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Northern Iowa,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Northern Kentucky,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Michigan State,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Wright State,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Youngstown State,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Robert Morris,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Cleveland State,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Wright State,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Milwaukee,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Green Bay,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,IU Indianapolis,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Detroit Mercy,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Purdue Fort Wayne,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Northern Kentucky,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Cleveland State,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Youngstown State,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Robert Morris,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Green Bay,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Milwaukee,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,IU Indianapolis,1,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oakland Golden Grizzlies,Detroit Mercy,0,82.5,75.0,10.9,23.8,60.7,23.6,10.5,12.9
+Oregon State Beavers,North Dakota State,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,UIC,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,North Texas,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Oregon,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Evansville,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Iona,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Massachusetts,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,California Baptist,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Vermont,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Southern Utah,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Montana State,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Sam Houston,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Arizona State,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Santa Clara,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,San Francisco,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Pacific,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Washington State,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Seattle U,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Portland,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Loyola Marymount,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Pacific,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Saint Mary's ,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Loyola Marymount,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,San Diego,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Washington State,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Gonzaga,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,San Francisco,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Seattle U,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Pepperdine,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,San Diego,1,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Oregon State Beavers,Santa Clara,0,71.4,76.9,8.5,23.9,52.8,23.3,11.8,15.8
+Sacred Heart Pionneers,Merchant Marine Academy,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Duquesne,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Villanova,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Queens University,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Holy Cross,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Central Connecticut,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Penn State,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Mount St. Mary's,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Iona,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,NJIT,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Umass Lowell,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Dartmouth,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Towson,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Merrimack,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Niagara,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Canisius,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Marist,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Quinnipiac,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Siena,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Rider,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Canisius,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Niagara,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Quinnipiac,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Merrimack,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Fairfield,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Manhattan,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Saint Peter's,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Rider,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Fairfield,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Marist,0,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Sacred Heart Pionneers,Mount St. Mary's,1,75.6,77.3,10.5,24.7,58.9,17.8,12.2,15.5
+Saint Francis Red Flash,Oklahoma,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,TCU,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Mount St. Mary's,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Lehigh,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Belmont,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Troy,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Franciscan University,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Xavier,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Penn State-Shenango,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Radford,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Temple,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Florida,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Robert Morris,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Le Moyne,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Fairleigh Dickinson,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Wagner,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Long Island University,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Central Connecticut,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Stonehill,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Chicago State,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,New Haven,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Mercyhurst,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Le Moyne,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Chicago State,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Fairleigh Dickinson,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Mercyhurst,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Long Island University,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Wagner,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,New Haven,1,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Stonehill,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+Saint Francis Red Flash,Central Connecticut,0,71.5,69.4,10.5,22.2,59.5,18.2,12.9,16.1
+St. Thomas-Minnesota Tommies,Saint Mary's ,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Army,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Washington State,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Green Bay,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Southeast Missouri State,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Northern Colorado,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Cal State Fullerton,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Portland,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Lawrence University,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Montana State,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Weber State,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Saint John's,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,UNC Asheville,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,UC Riverside,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,North Central,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Denver,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,South Dakota,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Oral Roberts,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,North Dakota,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,North Dakota State,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,South Dakota State,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,South Dakota,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,North Dakota,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Kansas City,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,South Dakota State,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Oral Roberts,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Omaha,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Kansas City,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Denver,0,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,North Dakota State,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+St. Thomas-Minnesota Tommies,Omaha,1,83.3,67.8,7.0,26.5,58.3,20.1,9.5,12.4
+TCU Horned Frogs,New Orleans,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Saint Francis,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Lamar,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Michigan,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Kansas City,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Florida,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Wisconsin,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Notre Dame,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,North Texas,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Incarnate Word,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Oral Roberts,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Florida A&M,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Jackson State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Baylor,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Kansas  ,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Arizona,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,BYYU,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Utah,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Oklahoma State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Baylor,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Houston,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Colorado,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Kansas State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Iowa State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Oklahoma State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,UCF,0,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,West Virginia,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Arizona State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Kansas State,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+TCU Horned Frogs,Texas Tech,1,78.3,70.7,12.1,23.9,60.3,23.9,11.1,13.5
+Texas A&M-Corpus Christi Islanders,Trinity,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,SMU,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Tarleton State,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Kansas,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Oklahoma State,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Howard Payne,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Xavier,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Lamar,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Dallas Christian,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Stephan F. Austin,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Southwestern Adventist,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Nicholls,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,New Orleans,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,UT Rio Grande Valley,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Houston Christian,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Northwestern State,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,East Texas A&M,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,SE Louisiana,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,McNeese,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Incarnate Word,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,UT Rio Grande Valley,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Houston Christian,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Incarnate Word,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Nicholls,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,New Orleans,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Lamar,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Stephan F. Austin,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,McNeese,0,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,SE Louisiana,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,Northwestern State,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Texas A&M-Corpus Christi Islanders,East Texas A&M,1,72.9,67.8,11.4,24.5,56.7,22.4,13,16.3
+Utah State Aggies,Westminster,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,VCU,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Weber State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,UTEP,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Tulane,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Davidson,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Montana State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,South Florida,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Charlotte,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Illinois State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Colorado State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Fresno State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,San Jose State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Air Force,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Boise State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Nevada,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Grand Canyon,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,UNLV,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Colorado State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Wyoming,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,San Diego State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,New Mexico,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Wyoming,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Fresno State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Memphis,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Boise State,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Nevada,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,San Diego State,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,Grand Canyon,1,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Utah State Aggies,UNLV,0,83.3,70.2,11.1,23.7,58.5,21.6,10.7,13.6
+Wright State Raiders,Franklin,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,California,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Toledo,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Radford,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Kent State,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Ohio Wesleyan,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Stetson,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Butler,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Youngstown State,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Green Bay,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Marshall,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Miami,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Eastern Michigan,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Oakland,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Milwaukee,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,IU Indianapolis,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Detriot Mercy,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Oakland,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Youngstown State,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Cleveland State,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Northern Kentucky,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Milwaukee,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Green Bay,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Robert Morris,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Purdue Fort Wayne,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Detriot Mercy,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Cleveland State,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,IU Indianapolis,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Robert Morris,0,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Purdue Fort Wayne,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Wright State Raiders,Northern Kentucky,1,80.2,73.2,11.4,23.8,58.7,21.6,11.4,14.3
+Xavier Musketeers,Marist,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Le Moyne,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Santa Clara,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Iowa,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Old Dominion,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Georgia,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,West Virginia,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Texas A&M-Corpus Christi ,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Saint Francis,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Cincinnati,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Missouri State,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Creighton,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Georgetown,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,UConn,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,DePaul,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Marquette,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Providence,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Butler,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Creighton,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,St. John's,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Seton Hall,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,DePaul,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,UConn,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,St. John's,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Marquette,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Villanova,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Butler,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Providence,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Georgetown,1,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
+Xavier Musketeers,Seton Hall,0,78.7,72.3,10.0,24.9,63.6,17.6,10,12.3
