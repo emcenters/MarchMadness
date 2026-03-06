@@ -6,21 +6,21 @@ mm.df <- read.csv("MarchMadness.csv")
 ```
 
 ```{r}
-mm.glm <- glm(Win ~ PTS + FTR + OR + DR + FGA + FTA + TO + TOR, family = binomial, data = mm.df)
+mm.glm <- glm(Win ~ PTS + FTR + OR + DR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
 summary(mm.glm)
 ```
 We can determine that the amount of field goal attempts is not a good predictor for whether the 
 team wins or not because its p-value is 0.954199 > 0.05.
 
 ```{r}
-mm.glm2 <- glm(Win ~ PTS + FTR + OR + DR + FTA + TO + TOR, family = binomial, data = mm.df)
+mm.glm2 <- glm(Win ~ PTS + FTR + OR + DR + FTA + TO + TOR, family = "binomial", data = mm.df)
 summary(mm.glm2)
 ```
 We can determine that the amount of free throw rate is not a good predictor for whether the 
 team wins or not because its p-value is 0.0.215868 > 0.05.
 
 ```{r}
-mm.glm3 <- glm(Win ~ PTS + OR + DR + FTA + TO + TOR, family = binomial, data = mm.df)
+mm.glm3 <- glm(Win ~ PTS + OR + DR + FTA + TO + TOR, family = "binomial", data = mm.df)
 summary(mm.glm3)
 ```
 The offensive and defensive rebound, free throw attempts, total turnovers, and turnover rate
