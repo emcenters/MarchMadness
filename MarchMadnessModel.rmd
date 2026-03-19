@@ -28,3 +28,24 @@ are good predictors of whether a team will win because their p-values are less t
 
 Prediction Equation:
 Win = (0.09994)Points + (0.18493)Offensive Rebound + (0.24748)Defensive Rebound + (0.06575)Free Throw Attempts - (0.96550)Total Turnovers + (0.81709)Turnover Rate
+
+```{r}
+br.df <- read.csv("BracketMarchMadness.csv")
+calcValues <- numeric(nrow(br.df))
+
+for (i in seq_len(nrow(br.df))) {
+    calcValues[i] <- mm.glm3[[1]][[1]]
+    for(j in 2:7) {
+      calcValues[i] <- calcValues[i] + br.df[[j]][[i]] * mm.glm3[[1]][[j]]
+    }
+    # print(br.df[[1]][[i]])
+    # print(calcValues[[i]])
+}
+```
+
+```{r}
+temp <- calcValues[1] - calcValues[2]
+fin <- exp(temp)/(1+exp(temp))
+print(fin)
+# 19,44,53,62
+```

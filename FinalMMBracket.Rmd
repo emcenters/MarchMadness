@@ -1,0 +1,326 @@
+---
+title: "March Madness Model"
+output: html_notebook
+---
+```{r}
+library(Stat2Data)
+
+mm.df <- read.csv("MarchMadness.csv")
+```
+
+```{r}
+mm.glm <- glm(Win ~ PTS + FTR + OR + DR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+summary(mm.glm)
+```
+We can determine that the amount of field goal attempts is not a good predictor for whether the 
+team wins or not because its p-value is 0.954199 > 0.05.
+
+```{r}
+mm.glm2 <- glm(Win ~ PTS + FTR + OR + DR + FTA + TO + TOR, family = "binomial", data = mm.df)
+summary(mm.glm2)
+```
+We can determine that the amount of free throw rate is not a good predictor for whether the 
+team wins or not because its p-value is 0.0.215868 > 0.05.
+
+```{r}
+mm.glm3 <- glm(Win ~ PTS + OR + DR + FTA + TO + TOR, family = "binomial", data = mm.df)
+summary(mm.glm3)
+```
+The offensive and defensive rebound, free throw attempts, total turnovers, and turnover rate
+are good predictors of whether a team will win because their p-values are less than 0.05.
+
+Prediction Equation:
+log(Wins) = -17.58457 + (0.09994)Points + (0.18493)Offensive Rebound + (0.24748)Defensive Rebound + (0.06575)Free Throw Attempts - (0.96550)Total Turnovers + (0.81709)Turnover Rate
+
+
+# Randomization
+
+## PTS
+```{r}
+coefPTS <- numeric(1000)
+realPTS <- coef(mm.glm)["PTS"]
+for(i in 1:1000) {
+  shufflePTS <- sample(mm.df$PTS)
+  shufPTS.glm <- glm(Win ~ shufflePTS + FTR + OR + DR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefPTS[i] <- coef(shufPTS.glm)["shufflePTS"]
+}
+
+randPval <- mean(abs(coefPTS) >= abs(realPTS))
+randPval
+
+```
+p value for randomization test for p value is so small that is approximated as 0, so PTS is a significant predictor
+
+## FTR
+```{r}
+coefFTR <- numeric(1000)
+realFTR <- coef(mm.glm)["FTR"]
+for(i in 1:1000) {
+  shuffleFTR <- sample(mm.df$FTR)
+  shufFTR.glm <- glm(Win ~ PTS + shuffleFTR + OR + DR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefFTR[i] <- coef(shufFTR.glm)["shuffleFTR"]
+}
+
+randPval <- mean(abs(coefFTR) >= abs(realFTR))
+randPval
+
+```
+FTR p value = 0.178, greater than 0.05, likely not significant
+
+## OR
+```{r}
+coefOR <- numeric(1000)
+realOR <- coef(mm.glm)["OR"]
+for(i in 1:1000) {
+  shuffleOR <- sample(mm.df$OR)
+  shufOR.glm <- glm(Win ~ PTS + FTR + shuffleOR + DR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefOR[i] <- coef(shufOR.glm)["shuffleOR"]
+}
+
+randPval <- mean(abs(coefOR) >= abs(realOR))
+randPval
+
+```
+p value <0.05, OR is significant
+
+## DR
+```{r}
+coefDR <- numeric(1000)
+realDR <- coef(mm.glm)["DR"]
+for(i in 1:1000) {
+  shuffleDR <- sample(mm.df$DR)
+  shufDR.glm <- glm(Win ~ PTS + FTR + OR + shuffleDR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefDR[i] <- coef(shufDR.glm)["shuffleDR"]
+}
+
+randPval <- mean(abs(coefDR) >= abs(realDR))
+randPval
+```
+p value <0.05, DR is significant
+
+## FGA
+```{r}
+coefFGA <- numeric(1000)
+realFGA <- coef(mm.glm)["FGA"]
+for(i in 1:1000) {
+  shuffleFGA <- sample(mm.df$FGA)
+  shufFGA.glm <- glm(Win ~ PTS + FTR + OR + DR + shuffleFGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefFGA[i] <- coef(shufFGA.glm)["shuffleFGA"]
+}
+
+randPval <- mean(abs(coefFGA) >= abs(realFGA))
+randPval
+```
+pval=0.628 > 0.05, not significant
+
+## FTA
+```{r}
+coefFTA <- numeric(1000)
+realFTA <- coef(mm.glm)["FTA"]
+for(i in 1:1000) {
+  shuffleFTA <- sample(mm.df$FTA)
+  shufFTA.glm <- glm(Win ~ PTS + FTR + OR + shuffleFTA + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefFTA[i] <- coef(shufFTA.glm)["shuffleFTA"]
+}
+
+randPval <- mean(abs(coefFTA) >= abs(realFTA))
+randPval
+```
+pval = 0.005 < 0.05, significant
+
+## TO
+```{r}
+coefTO <- numeric(1000)
+realTO <- coef(mm.glm)["TO"]
+for(i in 1:1000) {
+  shuffleTO <- sample(mm.df$TO)
+  shufTO.glm <- glm(Win ~ PTS + FTR + OR + shuffleTO + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefTO[i] <- coef(shufTO.glm)["shuffleTO"]
+}
+
+randPval <- mean(abs(coefTO) >= abs(realTO))
+randPval
+```
+
+pval<0.05, significant
+
+## TOR
+```{r}
+coefTOR <- numeric(1000)
+realTOR <- coef(mm.glm)["TOR"]
+for(i in 1:1000) {
+  shuffleTOR <- sample(mm.df$TOR)
+  shufTOR.glm <- glm(Win ~ PTS + FTR + OR + shuffleTOR + FGA + FTA + TO + TOR, family = "binomial", data = mm.df)
+  coefTOR[i] <- coef(shufTOR.glm)["shuffleTOR"]
+}
+
+randPval <- mean(abs(coefTOR) >= abs(realTOR))
+randPval
+```
+pval<0.05, significant
+
+# BootStrap
+```{r}
+bootPTS <- numeric(1000)
+bootFTR <- numeric(1000)
+bootOR <- numeric(1000)
+bootDR <- numeric(1000)
+bootFGA <- numeric(1000)
+bootFTA <- numeric(1000)
+bootTO <- numeric(1000)
+bootTOR <- numeric(1000)
+
+for(i in 1:1000) {
+  bootSample <- mm.df[sample(1:nrow(mm.df), replace=TRUE), ]
+  bootModel <- glm(Win ~ PTS + FTR + OR + DR + FGA + FTA + TO + TOR, 
+                      family = binomial, data = bootSample)
+  bootPTS[i] <- exp(coef(bootModel)["PTS"])
+  bootFTR[i] <- exp(coef(bootModel)["FTR"])
+  bootOR[i]  <- exp(coef(bootModel)["OR"])
+  bootDR[i]  <- exp(coef(bootModel)["DR"])
+  bootFGA[i] <- exp(coef(bootModel)["FGA"])
+  bootFTA[i] <- exp(coef(bootModel)["FTA"])
+  bootTO[i]  <- exp(coef(bootModel)["TO"])
+  bootTOR[i] <- exp(coef(bootModel)["TOR"])
+
+}
+
+quantile(bootPTS, c(0.025, 0.975))
+quantile(bootFTR, c(0.025, 0.975))
+quantile(bootOR, c(0.025, 0.975))
+quantile(bootDR, c(0.025, 0.975))
+quantile(bootFGA, c(0.025, 0.975))
+quantile(bootFTA, c(0.025, 0.975))
+quantile(bootTO, c(0.025, 0.975))
+quantile(bootTOR, c(0.025, 0.975))
+ 
+```
+
+We are 95% confident that the odd ratio of PTS is within 1.053 to 1.182. This means each additional point scored increases the odds of winning by approximately 5.3% to 18.2%
+
+We are 95% confident that the odd ratio of FTR is within 0.94 to 1.01. This interval includes 1, so its likely not statstically significant
+
+We are 95% confident that the odd ratio of OR is within 1.02 to 1.37. This means each additional OR increases the odds of winning by approximately 2% to 37%
+
+We are 95% confident that the odd ratio of DR is within 1.09 to 1.49. This means each additional DR increases the odds of winning by approximately 9% to 49%
+
+We are 95% confident that the odd ratio of FGA is within 0.67 to 1.49. This interval includes 1, so its likely not statstically significant
+
+We are 95% confident that the odd ratio of FTA is within 0.88 to 1.30. This interval includes 1, so its likely not statstically significant
+
+We are 95% confident that the odd ratio of TO is within 0.04 to 3.96. This interval includes 1, so its likely not statstically significant
+
+We are 95% confident that the odd ratio of TOR is within 0.25 to 17.9 This interval includes 1, so its likely not statstically significant
+
+# Bracket Simulation
+```{r}
+br.df <- read.csv("BracketMarchMadness.csv")
+logOddsOfTeams <- list(teamName = br.df$Team, logOdd = numeric(nrow(br.df)))
+
+# for loop for setting log(Odds) for each team
+for(i in seq_len(nrow(br.df))) {
+    logOddsOfTeams$logOdd[i] <- mm.glm3[[1]][[1]]
+    for(j in 2:7) {
+      logOddsOfTeams$logOdd[i] <- logOddsOfTeams$logOdd[[i]] + br.df[[j]][[i]] * mm.glm3[[1]][[j]]
+    }
+}
+```
+This is setting up all the log(Odds) for each team.
+
+```{r}
+# Color to easily see winner
+red <- "\u001b[31m"
+resetColor <- "\u001b[0m"
+
+# Function to simulate games
+simulateGame <- function(team1, team2) {
+  logOddsT1 <- logOddsOfTeams$logOdd[logOddsOfTeams$teamName == team1]
+  logOddsT2 <- logOddsOfTeams$logOdd[logOddsOfTeams$teamName == team2]
+  gameProbability <- exp(logOddsT1-logOddsT2)/(1+exp(logOddsT1-logOddsT2))
+
+  numWins <- c(0, 0)
+  for(num in runif(10000, min = 0, max = 1)) {
+    if(num < gameProbability) {
+      numWins[1] <- numWins[1]+1
+    } 
+    else {
+      numWins[2] <- numWins[2]+1
+    }
+  }
+  cat(team1, numWins[1], "\t")
+  cat(team2, numWins[2], "\n")
+
+  if(numWins[1] > numWins[2]) {
+    cat(red, team1, resetColor, "\n")
+    return(team1)
+  }
+  cat(red, team2, resetColor, "\n")
+  return(team2)
+}
+
+# Special Cases (8 team duke out)
+winner18 <- simulateGame(br.df$Team[18], br.df$Team[19])
+winner43 <- simulateGame(br.df$Team[43], br.df$Team[44])
+winner52 <- simulateGame(br.df$Team[52], br.df$Team[53])
+winner61 <- simulateGame(br.df$Team[61], br.df$Team[62])
+
+# Round 1
+winnersR1 <- numeric(32)
+index <- 1
+for(i in 1:32) {
+  if((index+1) %in% c(18, 43, 52, 61)) {
+    winner <- winner61
+    if(index+1 == 18) {
+      winner <- winner18
+    }
+    else if (index+1 == 43) {
+      winner <- winner43
+    }
+    else if (index+1 == 52) {
+      winner <- winner52
+    }
+    winnersR1[i] <- simulateGame(br.df$Team[index], winner)
+    index <- index+3
+  }
+  else {
+    winnersR1[i] <- simulateGame(br.df$Team[index], br.df$Team[index+1])
+    index <- index+2
+  }
+}
+
+# Round 2
+winnersR2 <- numeric(16)
+index <- 1
+for(i in 1:16) {
+  winnersR2[i] <- simulateGame(winnersR1[index], winnersR1[index+1])
+  index <- index+2
+}
+
+# Round 3
+winnersR3 <- numeric(8)
+index <- 1
+for(i in 1:8) {
+  winnersR3[i] <- simulateGame(winnersR2[index], winnersR2[index+1])
+  index <- index+2
+}
+
+# Round 4
+winnersR4 <- numeric(4)
+index <- 1
+for(i in 1:4) {
+  winnersR4[i] <- simulateGame(winnersR3[index], winnersR3[index+1])
+  index <- index+2
+}
+
+# Semi-Finals
+winnersSF <- numeric(2)
+index <- 1
+for(i in 1:2) {
+  winnersSF[i] <- simulateGame(winnersR4[index], winnersR4[index+1])
+  index <- index+2
+}
+
+# Finals
+winner <- simulateGame(winnersSF[1], winnersSF[2])
+print(winner)
+```
