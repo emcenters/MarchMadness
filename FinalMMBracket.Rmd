@@ -322,3 +322,12 @@ for(i in 1:2) {
 # Finals
 winner <- simulateGame(winnersSF[1], winnersSF[2])
 ```
+
+Because I'm lazy and don't want to split the code, here's the big chunk.
+
+For each game, we calculate the probability of team A winning against team B in a method. 
+Then, 100,000 random numbers are generated between 0 and 1 (because why not), and if it 
+is lower than the calculated probability of team A winning, team A wins. If not, team B 
+wins. This is counted, and then the team with more wins after going through the 100,000
+numbers is the winner of the match. Then, we do this for each matchup until we have a 
+winner.
