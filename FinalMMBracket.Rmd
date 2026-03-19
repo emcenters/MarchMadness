@@ -231,7 +231,6 @@ This is setting up all the log(Odds) for each team.
 # Color to easily see winner
 red <- "\u001b[31m"
 resetColor <- "\u001b[0m"
-
 # Function to simulate games
 simulateGame <- function(team1, team2) {
   logOddsT1 <- logOddsOfTeams$logOdd[logOddsOfTeams$teamName == team1]
@@ -239,7 +238,7 @@ simulateGame <- function(team1, team2) {
   gameProbability <- exp(logOddsT1-logOddsT2)/(1+exp(logOddsT1-logOddsT2))
 
   numWins <- c(0, 0)
-  for(num in runif(10000, min = 0, max = 1)) {
+  for(num in runif(100000, min = 0, max = 1)) {
     if(num < gameProbability) {
       numWins[1] <- numWins[1]+1
     } 
@@ -247,8 +246,8 @@ simulateGame <- function(team1, team2) {
       numWins[2] <- numWins[2]+1
     }
   }
-  cat(team1, numWins[1], "\t")
-  cat(team2, numWins[2], "\n")
+  cat("\n", team1, ": ", numWins[1], "\t")
+  cat(team2, ": ", numWins[2], "\n")
 
   if(numWins[1] > numWins[2]) {
     cat(red, team1, resetColor, "\n")
@@ -322,5 +321,4 @@ for(i in 1:2) {
 
 # Finals
 winner <- simulateGame(winnersSF[1], winnersSF[2])
-print(winner)
 ```
