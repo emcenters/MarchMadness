@@ -1,0 +1,194 @@
+---
+title: "March Madness Model"
+output: html_notebook
+---
+```{r}
+library(Stat2Data)
+
+mm.df <- read.csv("MarchMadness.csv")
+mm.glm3 <- glm(Win ~ PTS + OR + DR + FTA + TO + TOR, family = "binomial", data = mm.df)
+summary(mm.glm3)
+```
+
+
+# Bracket Simulation
+```{r}
+br.df <- read.csv("BracketMarchMadness.csv")
+logOddsOfTeams <- list(teamName = br.df$Team, logOdd = numeric(nrow(br.df)))
+
+# for loop for setting log(Odds) for each team
+for(i in seq_len(nrow(br.df))) {
+    logOddsOfTeams$logOdd[i] <- mm.glm3[[1]][[1]]
+    for(j in 2:7) {
+      logOddsOfTeams$logOdd[i] <- logOddsOfTeams$logOdd[[i]] + br.df[[j]][[i]] * mm.glm3[[1]][[j]]
+    }
+}
+```
+This is setting up all the log(Odds) for each team.
+
+```{r}
+# Color to easily see winner
+red <- "\u001b[31m"
+resetColor <- "\u001b[0m"
+gameProbabilities <- numeric(40)
+gP.counter <- 1
+
+# Function to simulate games
+simulateGame <- function(team1, team2, doResidual) {
+  logOddsT1 <- logOddsOfTeams$logOdd[logOddsOfTeams$teamName == team1]
+  logOddsT2 <- logOddsOfTeams$logOdd[logOddsOfTeams$teamName == team2]
+  gameProbability <- exp(logOddsT1-logOddsT2)/(1+exp(logOddsT1-logOddsT2))
+
+  numWins <- c(0, 0)
+  for(num in runif(100000, min = 0, max = 1)) {
+    if(num < gameProbability) {
+      numWins[1] <- numWins[1]+1
+    } 
+    else {
+      numWins[2] <- numWins[2]+1
+    }
+  }
+  cat("\n", team1, ": ", numWins[1], "\t")
+  cat(team2, ": ", numWins[2], "\n")
+
+  if(doResidual) {
+    gameProbabilities[gP.counter] <<- gameProbability
+    gP.counter <<- gP.counter+1
+  }
+
+  if(numWins[1] > numWins[2]) {
+    cat(red, team1, resetColor, "\n")
+    return(team1)
+  }
+  cat(red, team2, resetColor, "\n")
+  return(team2)
+}
+
+# Special Cases (8 team duke out)
+winner18 <- simulateGame(br.df$Team[18], br.df$Team[19], FALSE)
+winner43 <- simulateGame(br.df$Team[43], br.df$Team[44], FALSE)
+winner52 <- simulateGame(br.df$Team[52], br.df$Team[53], FALSE)
+winner61 <- simulateGame(br.df$Team[61], br.df$Team[62], FALSE)
+
+# Round 1
+winnersR1 <- numeric(32)
+index <- 1
+for(i in 1:32) {
+  if((index+1) %in% c(18, 43, 52, 61)) {
+    winner <- winner61
+    if(index+1 == 18) {
+      winner <- winner18
+    }
+    else if (index+1 == 43) {
+      winner <- winner43
+    }
+    else if (index+1 == 52) {
+      winner <- winner52
+    }
+    winnersR1[i] <- simulateGame(br.df$Team[index], winner, TRUE)
+    index <- index+3
+  }
+  else {
+    winnersR1[i] <- simulateGame(br.df$Team[index], br.df$Team[index+1], TRUE)
+    index <- index+2
+  }
+}
+
+# Round 2
+winnersR2 <- numeric(16)
+index <- 1
+for(i in 1:16) {
+  winnersR2[i] <- simulateGame(winnersR1[index], winnersR1[index+1], FALSE)
+  index <- index+2
+}
+
+# Round 3
+winnersR3 <- numeric(8)
+index <- 1
+for(i in 1:8) {
+  winnersR3[i] <- simulateGame(winnersR2[index], winnersR2[index+1], FALSE)
+  index <- index+2
+}
+
+# Round 4
+winnersR4 <- numeric(4)
+index <- 1
+for(i in 1:4) {
+  winnersR4[i] <- simulateGame(winnersR3[index], winnersR3[index+1], FALSE)
+  index <- index+2
+}
+
+# Semi-Finals
+winnersSF <- numeric(2)
+index <- 1
+for(i in 1:2) {
+  winnersSF[i] <- simulateGame(winnersR4[index], winnersR4[index+1], FALSE)
+  index <- index+2
+}
+
+# Finals
+winner <- simulateGame(winnersSF[1], winnersSF[2], FALSE)
+```
+
+Because I'm lazy and don't want to split the code, here's the big chunk.
+
+For each game, we calculate the probability of team A winning against team B in a method. 
+Then, 100,000 random numbers are generated between 0 and 1 (because why not), and if it 
+is lower than the calculated probability of team A winning, team A wins. If not, team B 
+wins. This is counted, and then the team with more wins after going through the 100,000
+numbers is the winner of the match. Then, we do this for each matchup until we have a 
+winner.
+
+# Residuals
+```{r}
+# Residuals for Round of 64 are already calculated.
+# Residuals for Round of 32
+print(gP.counter)
+simulateGame("St John's", "Kansas", TRUE)
+
+simulateGame("Arizona", "Utah St.", TRUE)
+simulateGame("High Point", "Arkansas", TRUE)
+simulateGame("TEXAS", "Gonzaga", TRUE)
+simulateGame("Miami (FL)", "Purdue", TRUE)
+
+simulateGame("Michigan", "Saint Louis", TRUE)
+simulateGame("Kentucky", "Iowa St.", TRUE)
+
+# Calculating average residual
+residual <- numeric(39)
+std.residual <- numeric(39)
+
+for(i in 1:39) {
+  if(i %in% c(2, 10, 13, 15, 18, 19, 21, 26, 35, 37, 39)) {
+    residual[i] <- 0-gameProbabilities[i]
+  }
+  else {
+    residual[i] <- 1-gameProbabilities[i]
+  }
+  std.residual[i] <- sqrt(gameProbabilities[i]*(1-gameProbabilities[i]))
+}
+print(mean(residual))
+print(mean(std.residual))
+```
+The average residual is 0.155, and the average standardized residiual is 0.454. 
+The average residual being nonzero means that our conditions for inference aren't
+met because the residuals aren't normally and evenly distributed.
+
+```{r}
+cat(residual[19], "\t", std.residual[19], "\n")
+```
+The residual for Wisconsin vs. High Point was -0.287, meaning that the model overestimated 
+Wisconsin winning.
+
+```{r}
+# Arizona vs. Utah State
+cat(residual[34], "\t", std.residual[34], "\n")
+```
+The standardized residual is 0.341, meaning that the observed value is 0.452 standard 
+deviations above the predicted value.
+
+```{r}
+print(std.residual)
+```
+None of the particular points are strange as they are all under 1 standard deviation 
+from the predicted value.
