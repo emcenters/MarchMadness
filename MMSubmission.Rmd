@@ -48,8 +48,8 @@ simulateGame <- function(team1, team2, doResidual) {
       numWins[2] <- numWins[2]+1
     }
   }
-  cat("\n", team1, ": ", numWins[1], "\t")
-  cat(team2, ": ", numWins[2], "\n")
+  # cat("\n", team1, ": ", numWins[1], "\t")
+  # cat(team2, ": ", numWins[2], "\n")
 
   if(doResidual) {
     gameProbabilities[gP.counter] <<- gameProbability
@@ -57,10 +57,10 @@ simulateGame <- function(team1, team2, doResidual) {
   }
 
   if(numWins[1] > numWins[2]) {
-    cat(red, team1, resetColor, "\n")
+    # cat(red, team1, resetColor, "\n")
     return(team1)
   }
-  cat(red, team2, resetColor, "\n")
+  # cat(red, team2, resetColor, "\n")
   return(team2)
 }
 
@@ -190,5 +190,68 @@ deviations above the predicted value.
 ```{r}
 print(std.residual)
 ```
-None of the particular points are strange as they are all under 1 standard deviation 
+None of the particular points are strange as they are all under 3 standard deviations 
 from the predicted value.
+
+# Error Analysis R3-R4
+```{r}
+gameProbabilities <- numeric(15)
+gP.counter <- 1
+round3 <- numeric(8)
+round3[1] <- simulateGame("Duke", "St John's", TRUE)
+round3[2] <- simulateGame("Michigan St", "UConn", TRUE)
+round3[3] <- simulateGame("Iowa", "Nebraska", TRUE)
+round3[4] <- simulateGame("Illinois", "Houston", TRUE)
+round3[5] <- simulateGame("Arizona", "Arkansas", TRUE)
+round3[6] <- simulateGame("TEXAS", "Purdue", TRUE)
+round3[7] <- simulateGame("Michigan", "Alabama", TRUE)
+round3[8] <- simulateGame("Tennessee", "Iowa St.", TRUE)
+
+round4 <- numeric(4)
+counter <- 1
+for(i in 1:4) {
+  round4[i] <- simulateGame(round3[counter], round3[counter+1], TRUE)
+  counter <- counter+2
+}
+
+round5 <- numeric(2)
+counter <- 1
+for(i in 1:2) {
+  round5[i] <- simulateGame(round4[counter], round4[counter+1], TRUE)
+  counter <- counter+2
+}
+
+round6 <- simulateGame(round5[1], round5[2], TRUE)
+
+# Calculating average residual
+residual <- numeric(15)
+std.residual <- numeric(15)
+
+for(i in 1:15) {
+  if(i %in% c(2, 6, 9, 10)) {
+    residual[i] <- 0-gameProbabilities[i]
+  }
+  else {
+    residual[i] <- 1-gameProbabilities[i]
+  }
+  std.residual[i] <- sqrt(gameProbabilities[i]*(1-gameProbabilities[i]))
+}
+print(mean(residual))
+print(mean(std.residual))
+```
+The average residual is 0.142, meaning that the conditions for inference aren't met as the residuals
+aren't equally distributed and scattered.
+
+```{r}
+print(residual[4])
+print(std.residual[4])
+```
+The residual for Arizona vs. Arkansas was 0.153, meaning that the model underestimated Arizona winning.
+The standardized residual is 0.360, meaning that the observed value is 0.360 standard deviations above 
+the predicted value.
+
+```{r}
+print(std.residual)
+```
+None of the particular points are strange as they are all under 3 standard deviations from the predicted 
+value.
