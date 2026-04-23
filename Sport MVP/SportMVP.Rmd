@@ -1,0 +1,28 @@
+---
+title: "Sport MVP"
+output: html_notebook
+---
+```{r}
+library(Stat2Data)
+
+mvp.df <- read.csv("DSProject without Joe.csv")
+mvp.df$TC <- mvp.df$YC+mvp.df$RC*2
+
+mvp.lm <- lm(G ~ APP+SUB+TC, data = mvp.df)
+summary(mvp.lm)
+
+predictMVP <- function(y) {
+    temp.df <- mvp.df[mvp.df$Year == y, ]
+
+    players.df <- data.frame(Name = temp.df$Name, Points = double(60))
+
+    for (index in 1:60) {
+        players.df$Points[index] <- mvp.lm[[1]][1] + mvp.lm[[1]][2]*(temp.df$APP[index]) + mvp.lm[[1]][3]*(temp.df$SUB[index]) + mvp.lm[[1]][4]*(temp.df$TC[index])
+    }
+
+    return(players.df$Name[players.df$Points == max(players.df$Points)])
+}
+
+predictMVP("2023-2024")
+predictMVP("2024-2025")
+```
